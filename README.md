@@ -1,6 +1,7 @@
 # **2sem - Sprint 3 Edge**
 
-> O objetivo desta tarefa é desenvolver a arquitetura inicial de uma aplicação loT capaz de receber e transmitir dados provenientes de dispositivos conectados
+O objetivo desta tarefa é desenvolver a arquitetura inicial de uma aplicação loT capaz de receber e transmitir dados provenientes de dispositivos conectados
+>Não é possível testar o projeto apenas com a simulação do Wokwi; para a funcionalidade completa, é necessária toda a estrutura
 
 ## 📋 Pré-requisitos
 + Ter o arduino IDE instalado em sua máquina, para rodar os códigos da placa.
@@ -13,7 +14,7 @@
   - Virtual Machine
 
 ## 📡 🔍 Link do Projeto
-Segue codigo do projeto : 
+Segue codigo do projeto : https://wokwi.com/projects/409657917261251585
 
 ## 🛠️ Construído com
 + Wokwi IDE
